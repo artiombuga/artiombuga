@@ -3,8 +3,7 @@
 I'm a first year student at USM in Moldova, passionate to develop my career in the IT world with the help of Java
 
 - 👨‍🎓 I’m currently working on my Java Studies
-- 🌱 I’m currently learning the Java Backend Developer track on JetBrains Academy: https://hyperskill.org/tracks/12
-- ⚡ Fun fact: I got into a Java Internship recently and am waiting for it to start!
+- 🌱 I’m currently an intern @Endava
 
 <!-- ### Education & Certifications -->
 
