@@ -1,6 +1,6 @@
 ### Hi there, I'm Artiom 👋
 
-I'm a first year student at USM in Moldova, passionate to develop my career in the IT world with the help of Java
+I'm a second year student at USM in Moldova, passionate in developing my career in the IT world with the help of Java
 
 - 👨‍🎓 I’m currently working on my Java Studies
 - ⭐ Completed an Internship in Java Development @Endava in June 2023
