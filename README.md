@@ -3,7 +3,8 @@
 I'm a first year student at USM in Moldova, passionate to develop my career in the IT world with the help of Java
 
 - 👨‍🎓 I’m currently working on my Java Studies
-- 🌱 I’m currently an intern @Endava
+- ⭐ Completed an Internship in Java Development @Endava in June 2023
+- 🌱 I’m currently working @Cedacri International
 
 <!-- ### Education & Certifications -->
 
@@ -12,6 +13,7 @@ I'm a first year student at USM in Moldova, passionate to develop my career in t
 <!-- -   **Applied Informatics** -  (2021 - 2024) -->
 
 -   **[SQL Fundamentals](https://hyperskill.org/certificates/9954534d-5dc1-49e3-a8d4-d5791fd171eb.pdf)** - JetBrains Academy (2023)
+-   **[Introduction To Java](https://hyperskill.org/certificates/908754d4-75df-4980-bb9b-465a88c7ebcb.pdf)** - JetBrains Academy (2023)
 
 ---
 
