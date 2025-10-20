@@ -2,7 +2,7 @@
 
 🎯 **Java Developer** focused on building scalable, secure, and performant web applications. I have hands-on experience with enterprise-level development, including digital signatures, batch processing, and advanced reporting.
 
-- 🧑‍💻 Currently working at **ION Group** as a Java Developer
+- 🧑‍💻 Currently working at **Coherent Solutions** as a Java Developer
 - 🎓 Completed my **Java Developer Internship** at **Endava** in June 2023
 - 📘 Continuing my Java studies through formal education and self-paced learning
 
